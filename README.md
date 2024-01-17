@@ -15,10 +15,11 @@ Each model is meticulously implemented and evaluated, with a focus on accuracy a
 The project highlights the potential of machine learning in the field of financial analysis, with LSTM showing particularly promising results in stock price forecasting.
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page] for open issues or open a new issue to discuss changes or ideas.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/JaimeenUnagar/StockPricePrediction/issues) for open issues or open a new issue to discuss changes or ideas.
 
 ## License
-Distributed under [Your License]. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Project Link: [GitHub Repository URL]
+Project Link: [StockPricePrediction on GitHub](https://github.com/JaimeenUnagar/StockPricePrediction)
+
