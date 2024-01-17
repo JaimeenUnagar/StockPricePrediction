@@ -1,6 +1,7 @@
 # Stock Price Prediction using Machine Learning Algorithms
 
-![Stock Price Prediction](stockpriceprediction-230628120004-f6da6504-thumbnail.jpg.webp "Stock Price Prediction")
+![Stock Price Prediction](![stockpriceprediction-230628120004-f6da6504-thumbnail jpg](https://github.com/JaimeenUnagar/StockPricePrediction/assets/156892615/01bdb038-7ba1-4b20-bc95-f1bec5f12802)
+"Stock Price Prediction")
 
 ## Description
 This repository hosts a comprehensive analysis and implementation of machine learning models for stock price prediction, featuring Linear Regression, Auto ARIMA, and LSTM (Long Short Term Memory) algorithms. Based on research presented at the 2022 International Conference for Advancement in Technology (ICONAT 2022), it demonstrates the effectiveness of these models in financial forecasting.
