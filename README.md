@@ -1,6 +1,3 @@
-
-
-readme_content = """
 # Stock Price Prediction using Machine Learning Algorithms
 
 ## Description
@@ -25,4 +22,3 @@ Distributed under [Your License]. See `LICENSE` for more information.
 
 ## Contact
 Project Link: [GitHub Repository URL]
-"""
